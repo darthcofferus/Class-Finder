@@ -53,7 +53,7 @@ Instance created: Inheritor2
         <!-- https://github.com/darthcofferus/Class-Finder -->
         <groupId>com.github.darthcofferus</groupId>
         <artifactId>class-finder</artifactId>
-        <version>1.0</version>
+        <version>1.0.1</version>
     </dependency>
 </dependencies>
 ```
